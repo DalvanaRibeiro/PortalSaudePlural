@@ -1,0 +1,19 @@
+SAÚDE PLURAL — ESTRUTURA ORGANIZADA
+
+src/main.tsx: inicialização do React e BrowserRouter.
+src/App.tsx: contexto global, autenticação, páginas protegidas, dashboard, módulos, avaliações, perfil e certificado.
+src/pages/HomePage.tsx: página inicial pública com apresentação, vídeo e botões de acesso.
+src/modules.ts: conteúdo completo das unidades curriculares.
+src/firebase.ts: configuração e inicialização do Firebase.
+src/styles.css: estilos globais, responsivos, vídeos, certificado e página inicial.
+
+ROTAS
+/ — página inicial pública
+/login — login
+/cadastro — cadastro
+/dashboard — módulos e progresso
+/modulo/:id — conteúdo da UC
+/quiz/:id — avaliação da UC
+/prova-final — avaliação final
+/perfil — dados profissionais
+/certificado — geração do PDF

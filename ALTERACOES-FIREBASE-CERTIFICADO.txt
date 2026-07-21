@@ -1,0 +1,14 @@
+VERSÃO FIREBASE + CERTIFICADO ORIGINAL
+
+- Firebase configurado com o projeto reactnative-a0810.
+- Authentication por e-mail e senha.
+- Dados do participante e progresso salvos na coleção users.
+- Certificados registrados na coleção certificados.
+- Certificado PDF utiliza public/certificate-template.jpg, o mesmo modelo do aplicativo original.
+- Tela final com fundo arco-íris e cartão branco conforme a imagem de referência.
+- Nome, profissão e unidade podem ser conferidos e corrigidos antes da emissão.
+- Vídeos dos módulos continuam incorporados na própria página.
+- Conversão de links YouTube watch, youtu.be e embed para reprodução incorporada.
+
+No Firebase Console, ative Authentication > Sign-in method > E-mail/senha.
+Publique as regras do arquivo firestore.rules.

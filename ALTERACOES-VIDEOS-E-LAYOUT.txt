@@ -1,0 +1,15 @@
+CORREÇÕES DESTA VERSÃO
+
+- Corrigida a incorporação de vídeos do YouTube Shorts.
+- Corrigido também o vídeo da UC2 que estava salvo apenas como ID.
+- Vídeos incluídos conforme o documento fornecido:
+  UC2: NvhaBiRygj8
+  UC3: 3ZTpCPcLVyg
+  UC4: bsBV1RuyDZA
+  UC9: Y1eRQKgrQPQ
+- Todos os textos dos módulos agora ficam justificados.
+- Fundo das páginas recebeu gradiente inspirado na bandeira LGBTQIAPN+.
+- Área de vídeo responsiva para celular, tablet e computador.
+- Melhorados espaçamento, cartões, sombras e legibilidade.
+
+Observação: o documento não apresenta links de vídeo para Introdução, UC1, UC5, UC6, UC7 e UC8; por isso não foram inventados vídeos para essas seções.

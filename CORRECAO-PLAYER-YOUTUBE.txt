@@ -1,0 +1,8 @@
+CORREÇÃO DO PLAYER DE VÍDEO
+
+- Player alterado para youtube-nocookie.com/embed.
+- Controles, reprodução em tela cheia e playsinline habilitados.
+- Compatibilidade aprimorada com celulares e navegadores internos.
+- Botão abaixo de cada vídeo: "Não conseguiu reproduzir? Assistir no YouTube".
+- Links Shorts convertidos automaticamente para o formato de reprodução.
+- Build de produção validado com npm run build.

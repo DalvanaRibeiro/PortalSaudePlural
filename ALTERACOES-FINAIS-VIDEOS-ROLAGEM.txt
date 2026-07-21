@@ -1,0 +1,7 @@
+CORREÇÕES DESTA VERSÃO
+
+- Vídeo incorporado na Introdução e em todas as UCs 1 a 9.
+- Conversão automática de URLs do YouTube Shorts para /embed/.
+- Rolagem vertical corrigida em Android, iPhone e navegadores internos.
+- Botão de avaliação permanece acessível na parte inferior durante a leitura.
+- Textos justificados e fundo com as cores da bandeira LGBTQIA+.

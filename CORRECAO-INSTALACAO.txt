@@ -1,0 +1,13 @@
+Este pacote foi corrigido para usar a registry publica oficial do npm.
+O package-lock.json anterior foi removido porque apontava para um endereco interno inacessivel fora do ambiente de geracao.
+
+No Windows, execute INICIAR-WINDOWS.bat.
+Ele:
+1. encerra processos Node que possam bloquear node_modules;
+2. remove proxy antigo do npm;
+3. define https://registry.npmjs.org/ como registry;
+4. remove uma instalacao incompleta;
+5. instala as dependencias;
+6. inicia o projeto.
+
+Se aparecer EPERM, feche VS Code, terminais e Explorador de Arquivos abertos nessa pasta, depois execute o .bat como Administrador.

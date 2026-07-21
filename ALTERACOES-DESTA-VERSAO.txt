@@ -1,0 +1,23 @@
+SAÚDE PLURAL — VERSÃO PROFISSIONAL
+
+Alterações realizadas:
+- Nova identidade visual profissional inspirada nas cores LGBTQIAPN+.
+- Faixa arco-íris institucional no topo e no rodapé.
+- Telas de login e cadastro redesenhadas.
+- Validação de e-mail com @ e domínio.
+- Mensagens de validação mais claras.
+- Campo Confirmar senha no cadastro.
+- Verificação de correspondência entre senha e confirmação.
+- Ícones de olho para mostrar e ocultar senha e confirmação.
+- Senha mínima de 8 caracteres.
+- Indicador visual de força da senha.
+- Melhorias de responsividade para celular, tablet e desktop.
+- Cards, botões, formulários, módulos e dashboard refinados.
+
+PARA EXECUTAR:
+1. Extraia o ZIP.
+2. Abra a pasta extraída no terminal.
+3. Execute npm install
+4. Execute npm run dev
+
+Caso o Windows mostre EPERM, feche terminais/VS Code que estejam usando a pasta e execute novamente o arquivo INICIAR-WINDOWS.bat.
